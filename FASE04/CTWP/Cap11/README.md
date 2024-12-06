@@ -54,28 +54,6 @@ Após comparação, o Random Forest Otimizado foi selecionado como o modelo mais
 - Impacto no Trabalho: A automação pode afetar empregos, exigindo estratégias de requalificação.
 - Transparência e Bias: Garantir que o modelo seja transparente e livre de vieses é crucial para manter a confiança dos usuários.
 
-### Instruções para Execução
-
-1. **Clone o Repositório:**
-
-```bash
-git clone https://github.com/anakolodji/MachineLearning.git
-cd MachineLearning
-```
-
-2. **Instale as Dependências:** Requer Python 3.x e as bibliotecas listadas no requirements.txt.
-
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Execute o Notebook:** Abra e execute o notebook principal para ver todas as análises e resultados.
-
-```bash
-jupyter notebook FASE04/CTWP/Cap11/classificacao_graos.ipynb
-```
-
 ## Conclusões
 
 A automação da classificação de grãos usando aprendizado de máquina não só aumenta a eficiência, mas também reduz erros, proporcionando um impacto positivo significativo nas operações das cooperativas agrícolas.
